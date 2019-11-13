@@ -19,4 +19,4 @@ hand3 = [Card Yellow 0, Card Yellow 1, Card Yellow 2, Card Yellow 3, Card Yellow
 hand4 = []
 
 upcard1 = Card Yellow 1
-upcard2 = Card Blue 6
+upcard2 = Card Green 6
